@@ -1,2 +1,43 @@
-# mitchell-research
-Independent research archive exploring biological topology, continuity under disruption, cognition, regeneration, microbiome dynamics, and reproducible computational science.
+# Mitchell Research
+
+Independent research archive maintained by Thomas S. Mitchell Sr.
+
+## Research Areas
+
+- Biological topology
+- Continuity under disruption
+- Regeneration
+- Cognition and memory
+- Microbiome dynamics
+- Computational modeling
+- Reproducible science
+
+## Publications
+
+### Continuity Under Disruption
+DOI: 10.5281/zenodo.20453940
+
+### Recursive Continuity Governance
+DOI: 10.5281/zenodo.20390065
+
+### Latent Risk Geometry Classification
+DOI: 10.5281/zenodo.20361754
+
+### Causal Field Signatures of Latent Risk Geometries
+DOI: 10.5281/zenodo.20362418
+
+### Operational Regime Mapping of the Keller-ΔΦ Protocol
+DOI: 10.5281/zenodo.20067241
+
+## External Archives
+
+- Zenodo
+- OpenAIRE
+- OSF
+
+## Author
+
+Thomas S. Mitchell Sr.
+Glendale, Arizona, USA
+
+Independent researcher focused on continuity, topology, regeneration, cognition, and reproducible computational science.
