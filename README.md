@@ -13,7 +13,22 @@ Independent research archive maintained by Thomas S. Mitchell Sr.
 - Reproducible science
 
 ## Publications
+## Current Projects
 
+- Continuity Under Disruption
+- HBN EEG Topology Analysis
+- Recursive Continuity Governance
+- Regeneration and Topological Recovery
+- Computational Models of Identity Persistence
+
+## Repository Structure
+
+Planned folders:
+
+- papers/
+- datasets/
+- figures/
+- docs/
 ### Continuity Under Disruption
 DOI: 10.5281/zenodo.20453940
 
